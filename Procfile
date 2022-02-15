@@ -1,1 +1,1 @@
-web: gunicorn ecart.wsgi --log-file-
+web: gunicorn ecart.wsgi --log-file -
